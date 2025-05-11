@@ -2,7 +2,7 @@
 
 **Last Updated:** May 11, 2025
 
-👋 ## Welcome!
+## Welcome! 👋
 
 This repository showcases my comprehensive learning journey and project work from the **ITAI 2376: Deep Learning and AI Agent Development** course. Here, you'll find a collection of my assignments, labs, and projects, demonstrating a progressive understanding and application of core AI, Machine Learning, and Deep Learning concepts—from foundational principles to the development of sophisticated AI agent systems.
 
