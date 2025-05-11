@@ -2,7 +2,7 @@
 
 **Last Updated:** May 11, 2025
 
-## Welcome! 👋
+## 👋 Welcome!
 
 This repository showcases my comprehensive learning journey and project work from the **ITAI 2376: Deep Learning and AI Agent Development** course. Here, you'll find a collection of my assignments, labs, and projects, demonstrating a progressive understanding and application of core AI, Machine Learning, and Deep Learning concepts—from foundational principles to the development of sophisticated AI agent systems.
 
@@ -12,7 +12,7 @@ My goal throughout this course was not just to learn, but to **build** and **app
 
 ---
 
-🌟 ## Portfolio Highlights
+## 🌟 Portfolio Highlights
 
 This repository is structured to reflect the progression of the course, with key highlights including:
 
@@ -62,7 +62,7 @@ This repository is structured to reflect the progression of the course, with key
 
 ---
 
-🛠️ ## Technologies & Tools Leveraged
+## 🛠️ Technologies & Tools Leveraged
 
 Throughout these projects, I gained experience with a diverse set of tools and technologies, including:
 
@@ -75,7 +75,7 @@ Throughout these projects, I gained experience with a diverse set of tools and t
 
 ---
 
-🚀 ## Key Learnings & Reflections
+## 🚀 Key Learnings & Reflections
 
 This course has been instrumental in shaping my understanding of AI from multiple perspectives:
 
@@ -87,7 +87,7 @@ This course has been instrumental in shaping my understanding of AI from multipl
 
 ---
 
-💡 ## Future Directions & Interests
+## 💡 Future Directions & Interests
 
 My experience in ITAI 2376 has fueled my interest in several areas of AI, including:
 
@@ -99,13 +99,13 @@ My experience in ITAI 2376 has fueled my interest in several areas of AI, includ
 
 ---
 
-🙏 ## Acknowledgements
+## 🙏 Acknowledgements
 
 Thank you to the instructors and TAs of ITAI 2376 for their guidance and for crafting a curriculum that balanced theory with extensive practical application.
 
 ---
 
-📬 ## Connect With Me
+## 📬 Connect With Me
 
 - **GitHub:**
 - **Email:** rayyaan.haamid@gmail.com
